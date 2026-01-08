@@ -15,16 +15,4 @@ This project focuses on the automated classification of kidney diseases (such as
 
 ---
 
-## 🏗️ Project Structure
-```text
-├── config/             # Configuration files (YAML)
-├── artifacts/          # Data and model artifacts (tracked by DVC)
-├── src/                # Source code
-│   ├── components/     # Modular pipeline steps (Data Ingestion, Training, etc.)
-│   ├── pipeline/       # Execution pipelines (Training/Prediction)
-│   └── constants/      # Constant variables
-├── dvc.yaml            # DVC pipeline definition
-├── params.yaml         # Hyperparameters for training
-├── requirements.txt    # Project dependencies
-└── main.py             # Entry point for execution
 
