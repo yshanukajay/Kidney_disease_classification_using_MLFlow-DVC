@@ -89,12 +89,5 @@ Each component handles **one responsibility**:
 - Used for **model inference**
 - Serves predictions through an API or web interface
 
----
-
-## ▶️ How to Run the Project
-
-### 🔹 Install Dependencies
-```bash
-pip install -r requirements.txt
 
 
